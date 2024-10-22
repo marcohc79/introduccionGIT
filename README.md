@@ -19,11 +19,9 @@ Crear un repositorio en GitHub donde cada miembro del grupo documente un comando
     **Propósito**: Añadir cambios al área de preparación.
 
     **Ejemplo**:
-    ```bash
+    ~~~bash
     git add archivo.txt
-
-    ```
-
+    ~~~
     ```
 
 4. **Subir Cambios**:
@@ -44,4 +42,3 @@ Crear un repositorio en GitHub donde cada miembro del grupo documente un comando
 ## Resultado Esperado
 
 Un archivo `comandos.md` que contenga documentación clara sobre varios comandos de Git, incluyendo su propósito y ejemplos.
-
