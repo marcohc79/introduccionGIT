@@ -29,5 +29,3 @@ git pull [opciones] [repositorio] [rama]
 ```bash
 git pull origin main
 ```
-
->>>>>>> mhuamani
