@@ -1,3 +1,6 @@
+\[[Init](#init)\] - \[[Add](#add)\] - \[[Commit](#commit)\] - \[[Push](#push)\] - \[[Log](#log)\] - \[[Branch](#branch)\] - \[[Checkout](#checkout)\] - \[[Git Status](#git-status)\] - \[[Merge](#merge)\] - \[[Clone](#clone)\] - \[[Pull](#pull)\]
+
+---
 
 # Init
 El comando `git init` se utiliza para **inicializar un nuevo repositorio de Git** en el directorio actual. Es el primer paso para empezar a rastrear archivos en un proyecto con Git, y convierte el directorio en un repositorio donde se puede llevar un historial de cambios.
