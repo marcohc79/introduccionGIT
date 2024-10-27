@@ -169,6 +169,10 @@ Clona un repositorio remoto, creando una copia completa en tu máquina local. Es
 git clone [URL-repositorio]
 
 ```
+# revert
+
+Permite deshacer una instantánea confirmada. Si descubres una confirmación errónea, revertirla es una forma fácil y segura de eliminarla por completo del código base.
+
 # Pull
 
 
